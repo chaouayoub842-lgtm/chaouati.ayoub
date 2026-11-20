@@ -98,7 +98,11 @@ header .text {
   }
 
   main .list ul {
-    width: 300px;
+    width: 260px;
+  }
+
+  main .list ul li a {
+    font-size: 13px;
   }
 }
 
